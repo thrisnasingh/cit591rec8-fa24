@@ -2,4 +2,4 @@
 
 Recitation 8: Practice with Git
 
-Name:
+Name: Thrisna Singh
